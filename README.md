@@ -1,1 +1,1 @@
-Welcome to Benepeak!
+Welcome to Benepeak UI!
