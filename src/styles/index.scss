@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import '~antd/dist/antd.css';
+
+a {
+  @apply text-indigo-500;
+  cursor: pointer;
+
+  &:hover {
+    @apply text-indigo-700
+  }
+}
+
